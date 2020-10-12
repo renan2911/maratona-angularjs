@@ -1,2 +1,2 @@
-# maratona-stefanini
+# maratona
 Dia 2
